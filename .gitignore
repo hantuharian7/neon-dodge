@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+dist/
+*.log
+.cache/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.swp
+.idea/
+.vscode/
